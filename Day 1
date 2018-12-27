@@ -1,3 +1,43 @@
+Machine Learning is an idea to learn from examples and experience, without being explicitly programmed.
+Instead of writing code, you feed data to the generic algorithm, and it builds logic based on the data given.
+Examples of Machine Learning
+
+There are many examples of machine learning. Here are a few examples of classification problems where the goal is to categorize objects into a fixed set of categories.
+
+Face detection: Identify faces in images (or indicate if a face is present).
+
+Email filtering: Classify emails into spam and not-spam.
+
+Medical diagnosis: Diagnose a patient as a sufferer or non-sufferer of some disease.
+
+Weather prediction: Predict, for instance, whether or not it will rain tomorrow.
+
+Need of Machine Learning:
+
+Machine Learning is a field which is raised out of Artificial Intelligence(AI). 
+Applying AI, we wanted to build better and intelligent machines.
+But except for few mere tasks such as finding the shortest path between point A and B, we were unable to program more complex and constantly evolving challenges.
+There was a realisation that the only way to be able to achieve this task was to let machine learn from itself. 
+This sounds similar to a child learning from its self. So machine learning was developed as a new capability for computers.
+And now machine learning is present in so many segments of technology, that we don’t even realise it while using it.
+
+Finding patterns in data on planet earth is possible only for human brains. The data being very massive, the time taken to compute is increased, and this is where Machine Learning comes into action, to help people with large data in minimum time.
+
+If big data and cloud computing are gaining importance for their contributions, machine learning as technology helps analyse those big chunks of data, easing the task of data scientists in an automated process and gaining equal importance and recognition.
+
+The techniques we use for data mining have been around for many years, but they were not effective as they did not have the competitive power to run the algorithms. If you run deep learning with access to better data, the output we get will lead to dramatic breakthroughs which is machine learning.
+
+Kinds of Machine Learning
+There are three kinds of Machine Learning Algorithms.
+
+a. Supervised Learning
+
+b. Unsupervised Learning
+
+c. Reinforcement Learning
+
+source: https://towardsdatascience.com/introduction-to-machine-learning-db7c668822c4
+
 So today i'll be starting with simple linear regression.
 
 The simple linear regression model is represented like this: Ε(y) = (β0 +β1 x).
