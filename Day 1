@@ -1,0 +1,28 @@
+So today i'll be starting with simple linear regression.
+
+The simple linear regression model is represented like this: Ε(y) = (β0 +β1 x).
+
+The simple linear regression equation is graphed as a straight line.
+
+(β0 is the y intercept of the regression line.
+
+β1 is the slope.
+
+Ε(y) is the mean or expected value of y for a given value of x.
+
+(x is independent variable and y is a dependent variable ,beta is ).
+
+For theory you can find it anywhere on the internet but i'll point to some few important points to remember:
+
+
+#1 Linear regression models are used to show or predict the relationship between two variables or factors.
+
+#2 When there is one independent variable,we call it simple linear regression model but when there are more then one independent variables
+we call it multiple linear regression.
+
+#3 Regression is generally used in continous values rather than discrete values.
+
+#4 It is a supervised machine learning algorithm.
+
+That's all for today. Tommorow i will be implementing linear regression with both Scikit learn(popular Machine learning library) and from
+scratch in python.(I don't know R lol).
