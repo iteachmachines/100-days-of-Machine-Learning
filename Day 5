@@ -1,0 +1,6 @@
+Model validation.We will learn to use model validation to measure the quality of your model.
+
+Measuring model quality is the key to iteratively improving your models.
+
+I have read it from two excellent sources - 1.https://towardsdatascience.com/cross-validation-in-machine-learning-72924a69872f
+                                            2.https://www.kaggle.com/dansbecker/model-validation
